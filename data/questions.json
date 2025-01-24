@@ -1,0 +1,25 @@
+[
+    {
+        "subject": "Python",
+        "tags": ["Data Analysis", "Automation", "Backend Development"],
+        "company_type": "Startup",
+        "experience": {
+            "0-1 years": {
+                "question": "Explain Python's basic syntax and its key features.",
+                "difficulty_score": 3
+            },
+            "2-4 years": {
+                "question": "What are Python decorators, and how do they work?",
+                "difficulty_score": 5
+            },
+            "4-8 years": {
+                "question": "How would you optimize a Python program for scalability?",
+                "difficulty_score": 7
+            },
+            "8-12 years": {
+                "question": "Explain the memory management process in Python. How can you identify and fix memory leaks?",
+                "difficulty_score": 8
+            }
+        }
+    }
+]
